@@ -1,0 +1,14 @@
+# Inicializar repositório Git
+git init
+
+# Adicionar todos os arquivos
+git add .
+
+# Fazer primeiro commit
+git commit -m "🎉 Aplicação PWA Branka Beauty - Quiz e Interação"
+
+# Conectar com GitHub (substitua SEU-USUARIO)
+git remote add origin https://github.com/SEU-USUARIO/branka-beauty-app.git
+
+# Enviar código
+git push -u origin main
